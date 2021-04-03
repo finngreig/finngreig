@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about Go and Amazon Web Services
 - 💞️ I’m looking to collaborate on any projects which are similarly aligned to mine
 - 📫 How to reach me:
-  - My Twitter account in my bio
   - My private mailing list at <~finncodes/contact@lists.sr.ht>
 
 <!---
