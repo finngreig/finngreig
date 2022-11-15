@@ -19,6 +19,8 @@ I'm professional software developer currently working on innovative carbon offse
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Wellington.js 19/04/2022: Out of Hibernation &lpar;Carload: a look at Vue 3&#39;s Composition API&rpar;](https://www.youtube.com/watch?v=t50cmQOfwns)
+- [Tutorial: Deploy a non-web Python application to Fly.io](https://www.youtube.com/watch?v=CedAzHw1k5I)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [...more YouTube videos](https://www.youtube.com/channel/UC5gpNKrlldjUjjTOfdLLn8w)
