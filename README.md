@@ -4,7 +4,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5gpNKrlldjUjjTOfdLLn8w?label=People%20subscribed%20to%20my%20channel&style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5gpNKrlldjUjjTOfdLLn8w?label=Total%20views%20on%20my%20channel&style=social)
 
-I'm professional software developer currently working on innovative carbon offset solutions with accounting data in Wellington, New Zealand. In my free time I enjoy blog writing and building passion projects on the side here on GitHub.
+I'm a professional software developer currently working on innovative carbon offset solutions with accounting data in Wellington, New Zealand. In my free time I enjoy blog writing and building passion projects on the side here on GitHub.
 
 ---
 
