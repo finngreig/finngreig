@@ -28,6 +28,11 @@ I'm professional software developer currently working on innovative carbon offse
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Honk on Alpine Linux](https://blog.finngreig.com/2022/11/running-honk-on-alpine-linux.html)
+- [2022 WOAP Burgers](https://blog.finngreig.com/2022/08/2022-woap-burgers.html)
+- [2021 WOAP Burgers](https://blog.finngreig.com/2022/08/2021-woap-burgers.html)
+- [How to Upload a File or Image Using the Notion API](https://blog.finngreig.com/2022/05/how-to-upload-file-or-image-using.html)
+- [Software as a 4D Construct](https://blog.finngreig.com/2022/05/software-as-4d-construct.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://blog.finngreig.com)
