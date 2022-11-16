@@ -1,5 +1,6 @@
 ## Hi there, I am Finn Greig! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109348191380012340?domain=https%3A%2F%2Fmastodon.nz&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/finngreig?label=People%20following%20me%20on%20GitHub&style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5gpNKrlldjUjjTOfdLLn8w?label=People%20subscribed%20to%20my%20channel&style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5gpNKrlldjUjjTOfdLLn8w?label=Total%20views%20on%20my%20channel&style=social)
