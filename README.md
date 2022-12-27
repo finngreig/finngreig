@@ -29,11 +29,11 @@ I'm a professional software developer currently working on innovative carbon off
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Preventing Burnout as a Developer](http://blog.finngreig.com/preventing_burnout_as_a_developer)
 - [Software Development Best Practices for Beginners](http://blog.finngreig.com/software_development_practices_for_beginners)
 - [Running Honk on Alpine Linux](http://blog.finngreig.com/honk_alpine)
 - [2022 WOAP Burgers](http://blog.finngreig.com/2022_woap)
 - [2021 WOAP Burgers](http://blog.finngreig.com/2021_woap)
-- [How to Upload a File or Image Using the Notion API](http://blog.finngreig.com/notion_api_upload)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://blog.finngreig.com)
