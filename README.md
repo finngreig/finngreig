@@ -11,14 +11,13 @@ I'm a professional software developer currently working on innovative carbon off
 
 ### 🧰 Toolbox
 
-|                     |                  |                  |                  |                  |
-|---------------------|------------------|------------------|------------------|------------------|
-| Amazon Web Services | Bash             | Canva            | Docker           | Express          |
-| Firefox             | Git              | Go               | Java             | JavaScript       |
-| Linux               | Markdown         | MySQL            | Next.js          | Node.js          |
-| PHP                 | PostgreSQL       | Python           | Raspberry Pi     | React            |
-| Redis               | SQLite           | SSH              | Tailwind CSS     | Terraform        |
-| Vue.js              |                  |                  |                  |                  |
+| **Amazon Web Services** | **Bash**        | **Canva**       | **Docker**      | **Express**     |
+|:------------------------|:----------------|:----------------|:----------------|:----------------|
+| **Firefox**             | **Git**         | **Go**          | **Java**        | **JavaScript**  |
+| **Linux**               | **Markdown**    | **MySQL**       | **Next.js**     | **Node.js**     |
+| **PHP**                 | **PostgreSQL**  | **Python**      | **Raspberry Pi**| **React**       |
+| **Redis**               | **SQLite**      | **SSH**         | **Tailwind CSS**| **Terraform**   |
+| **Vue.js**              |                 |                 |                 |                 |
 
 ---
 
