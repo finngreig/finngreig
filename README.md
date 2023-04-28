@@ -12,6 +12,6 @@ I'm a professional software developer currently working on innovative carbon off
 <div align="center">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=finngreig&theme=transparent&show_icons=true" alt="Finn's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finngreig&theme=transparent&layout=compact" alt="Finn's language stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finngreig&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact" alt="Finn's language stats" />
   </div>
 </div>
