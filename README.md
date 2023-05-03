@@ -3,7 +3,7 @@
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109348191380012340?domain=https%3A%2F%2Fmastodon.nz&style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/finngreig?label=People%20following%20me%20on%20GitHub&style=social)
 
-I'm a professional software developer currently working on innovative carbon offset solutions with accounting data in Wellington, New Zealand. In my free time I enjoy blog writing and building passion projects on the side here on GitHub.
+I'm a professional software engineer currently working on creating cost-effective, robust, and scalable hardware and software technology solutions for complex challenges in Wellington, New Zealand. In my free time I enjoy blog writing and building passion projects on the side here on GitHub.
 
 ---
 
