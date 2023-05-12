@@ -1,7 +1,7 @@
 ## Hello, World! I'm Finn Greig 👋
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109348191380012340?domain=https%3A%2F%2Fmastodon.nz&style=social)
-![GitHub Followers](https://img.shields.io/github/followers/finngreig?label=Followers&logo=GitHub&style=social)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109348191380012340?domain=https%3A%2F%2Fmastodon.nz&style=flat-square&color=563acc)
+![GitHub Followers](https://img.shields.io/github/followers/finngreig?label=Followers&logo=GitHub&style=flat-square)
 
 Welcome to my corner of GitHub! I'm a dedicated Software Engineer, crafting cost-effective, robust, and scalable tech solutions for complex problems. Based in Wellington, New Zealand, my professional endeavors extend to blog writing and developing passion projects right here on GitHub during my leisure time.
 
