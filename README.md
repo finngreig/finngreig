@@ -1,17 +1,31 @@
-## Hi there, I am Finn Greig! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, World! I'm Finn Greig 👋
 
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109348191380012340?domain=https%3A%2F%2Fmastodon.nz&style=social)
-![GitHub Followers](https://img.shields.io/github/followers/finngreig?label=People%20following%20me%20on%20GitHub&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/finngreig?label=Followers&logo=GitHub&style=social)
 
-I'm a professional software engineer currently working on creating cost-effective, robust, and scalable hardware and software technology solutions for complex challenges in Wellington, New Zealand. In my free time I enjoy blog writing and building passion projects on the side here on GitHub.
+Welcome to my corner of GitHub! I'm a dedicated Software Engineer, crafting cost-effective, robust, and scalable tech solutions for complex problems. Based in Wellington, New Zealand, my professional endeavors extend to blog writing and developing passion projects right here on GitHub during my leisure time.
 
 ---
 
-### &#x1f4c8; My GitHub Stats
+### 📈 GitHub Statistics
 
-<div align="center">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=finngreig&theme=transparent&show_icons=true" alt="Finn's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finngreig&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact" alt="Finn's language stats" />
-  </div>
-</div>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=finngreig&theme=transparent&show_icons=true" alt="Finn's GitHub stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finngreig&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact" alt="Finn's language stats" />
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+I work on the following technologies:
+
+- 🌐 HTML | CSS | JavaScript | React
+- 🛢️ SQL | Redis
+- 🖥️ Python | JavaScript | PHP | (and a bit of Go)
+
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/finngreig/) or send me an [email](mailto:hello@finngreig.com).
+
+Let's solve problems together and make the world a better place through technology. Happy coding! 🚀
