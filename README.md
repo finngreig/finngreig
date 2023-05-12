@@ -1,4 +1,4 @@
-## Hello, World! I'm Finn Greig 👋
+## Hello, World! I'm Finn Greig 👋 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B5L2WE9)
 
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109348191380012340?domain=https%3A%2F%2Fmastodon.nz&style=flat-square&color=563acc)
 ![GitHub Followers](https://img.shields.io/github/followers/finngreig?label=Followers&logo=GitHub&style=flat-square)
